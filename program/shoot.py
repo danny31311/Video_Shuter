@@ -1,13 +1,13 @@
 class Cursor:
   def __init__(self):
-    #Инициализция класса
+    #Инициализация класса курсора
 
   def UpdateCursor(self):
     #Модуль обновления положения курсора
 
 class Shooting:
   def __init__(self):
-    #Иницилазация класса
+    #Иницилазация класса стрельбы
 
   def ChangeShooting(self):
     #Модуль изменения стрельбы
