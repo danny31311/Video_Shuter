@@ -1,6 +1,3 @@
-class NewClass:
-    pass
-
 class Personaj:
     def __init__(self):
       #Инициализация модуля персонажа
